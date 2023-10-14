@@ -21,3 +21,4 @@ https://guanjunwu.github.io/4dgs/
 
 ## Output
 
+https://github.com/camenduru/4DGaussians-colab/assets/54370274/35e58d09-69be-464e-9eb8-697b7cb3d3c1
